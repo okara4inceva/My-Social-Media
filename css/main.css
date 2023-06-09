@@ -203,7 +203,7 @@ p
 .caption {
 	display: block;
 	font-size:13px;
-	text-align:justify;
+	text-align:left;
 }
 
 .header a {
